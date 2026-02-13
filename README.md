@@ -1,8 +1,8 @@
 # 👨‍💻 Davi Souza  
 
-**`Desenvolvedor Web`**  
+**`Desenvolvedor Full Stack`**  
 
-Olá! Sou Davi Souza, um entusiasta da tecnologia com foco em desenvolvimento **FullStack**. Atualmente, estudo **Desenvolvimento de Sistemas** e trabalho com tecnologias como **JavaScript, React e Node.js**. Amo compartilhar conhecimento e contribuir para projetos.  
+Olá! Sou Davi Souza, me chamam de (DaviDev), um entusiasta da tecnologia com foco em desenvolvimento **FullStack**, para garantir facilidade através de soluções a partir do código. Atualmente, estudo **Engenharia de Software** e trabalho com tecnologias como **JavaScript, React e Node.js**. Amo compartilhar conhecimento, contribuir para projetos e ajudar pessoas.  
 
 🔗 **Conecte-se comigo:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-souza-075540309/)  
@@ -43,10 +43,10 @@ Olá! Sou Davi Souza, um entusiasta da tecnologia com foco em desenvolvimento **
 ```python
 def sobre_mim():
     nome = "Davi Souza"
-    idade = "19 anos"
+    idade = "20 anos"
     cristo = "Vive em mim"
     stack = "FullStack Developer"
-    hobbies = ["Código", "Games"]
+    hobbies = ["Código", "Games", "Soluções"]
     objetivo = "Construir soluções inovadoras e aprender sempre!"
     
     return f"{nome} | {stack} 🚀"
