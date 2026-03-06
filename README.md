@@ -33,9 +33,8 @@ Olá! Sou Davi Souza, me chamam de (DaviDev), um entusiasta da tecnologia com fo
 
 ### 📈 GitHub Stats  
 
-|<i>As estatísticas do GitHub estarão disponíveis em breve.</i><br>
-  Enquanto isso, fique à vontade para explorar meus repositórios e projetos.|
-|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|  
+|<i>As estatísticas do GitHub estarão disponíveis em breve.</i><br> Enquanto isso, fique à vontade para explorar meus repositórios e projetos.|
+
 
 ---
 
