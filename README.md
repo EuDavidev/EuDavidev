@@ -33,7 +33,10 @@ Olá! Sou Davi Souza, me chamam de (DaviDev), um entusiasta da tecnologia com fo
 
 ### 📈 GitHub Stats  
 
-| ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=EuDavidev&show_icons=true&theme=tokyonight&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EuDavidev&theme=tokyonight&layout=compact&langs_count=6) |
+|<div align="center">
+  <i>As estatísticas do GitHub estarão disponíveis em breve.</i><br>
+  Enquanto isso, fique à vontade para explorar meus repositórios e projetos.
+</div> |
 |---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|  
 
 ---
