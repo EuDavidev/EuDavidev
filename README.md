@@ -4,7 +4,7 @@
 
 **Full Stack Developer** · Alagoinhas, Bahia, Brasil 🇧🇷
 
-*Transformo dados operacionais em sistemas reais. Construindo na Neoenergia Coelba.*
+*De forma inteligente, transformo dados operacionais em sistemas reais. Construindo na Neoenergia Coelba.*
 
 [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-eudavidev.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davisouza128@gmail.com)
@@ -16,9 +16,9 @@
 
 ## Sobre mim
 
-Tenho 20 anos e sou desenvolvedor Full Stack com experiência prática em ambiente corporativo de grande porte. Atualmente na **Neoenergia Coelba** (setor de Subtransmissão), onde desenvolvi do zero um painel de KPIs em Power BI que hoje é usado pela coordenação técnica — e estou construindo a aplicação web que vai substituí-lo.
+Sou Full Stack Developer/Software Engineer com experiência prática em ambiente corporativo. Tenho experiência na **Neoenergia Coelba**, onde sigo desenvolvendo do zero, Dashboards web de indicadores do setor e automatizando inserção de dados na plataforma.
 
-Meu diferencial é a ponte entre desenvolvimento e operação: entendo o problema do usuário final porque trabalho com ele todo dia.
+Meu diferencial é a ponte entre desenvolvimento (Software) e operação (Distribuição/transmissão): entendo o problema do usuário final porque trabalho e convivo com ele todo dia.
 
 ```typescript
 const davi = {
@@ -71,18 +71,18 @@ const davi = {
 ## Projetos em Destaque
 
 ### 🔒 Dashboard SUB *(corporativo — repositório privado)*
-> Aplicação web interna desenvolvida para a Neoenergia Coelba que substitui o fluxo manual Excel → Power BI do setor de Subtransmissão Centro.
+> Aplicação web interna desenvolvida dentro do ambiente de desenvolvimento da Neoenergia Coelba que substitui o fluxo manual "Excel → Power BI" do setor de Subtransmissão Centro.
 
 **Stack:** Next.js 15 · React 19 · TypeScript · Tailwind CSS v4 · Prisma · PostgreSQL · NextAuth v5 · Vercel
 
-- Centraliza planejamento financeiro, controle de gastos e dados operacionais do setor
+- Centraliza planejamento financeiro, telemetria de frota, controle de gastos e dados operacionais do setor
 - Integra dados de telemetria de frota (VFleets), métricas OPEX/CAPEX e análise de segurança
 - Substitui processo manual de consolidação em Excel com deploy contínuo na Vercel
 
 ---
 
 ### 📱 Home Finance *(em desenvolvimento)*
-> App mobile de controle financeiro doméstico/familiar.
+> App mobile de controle financeiro familiar.
 
 **Stack:** React Native · Expo SDK 54 · TypeScript · NativeWind · Supabase · Zustand · Expo Router
 
@@ -98,7 +98,7 @@ const davi = {
 ---
 
 ### 🎵 América *(utilitário pessoal)*
-> Desktop app Python/tkinter para download de áudio do YouTube via yt-dlp e FFmpeg, com lógica anti-detecção de bot e retry via cookies.
+> Desktop app Python/tkinter para download de áudio do YouTube via yt-dlp e FFmpeg, com lógica anti-detecção de bot e retry via cookies. Foi desenvolvido em projeto freelancer, para um cliente que tem uma atividade recorrente de realizar downloads diretamente do Youtube em formato MP3.
 
 **Stack:** Python · tkinter · yt-dlp · FFmpeg
 
@@ -120,12 +120,12 @@ const davi = {
 
 ## Experiência Profissional
 
-**Jovem Aprendiz — Desenvolvedor / Assistente Administrativo**
-🏢 Neoenergia Coelba · Subtransmissão Centro · Jan 2026 – Presente
+**Jovem Aprendiz — Desenvolvedor**
+🏢 Neoenergia Coelba · Jul 2025 – Presente
 
-- Desenvolvi o relatório SUB CENTRO no Power BI (3 tabelas fato, 7 dimensões), em uso ativo pela coordenação técnica e gestão do setor
-- Construindo o Dashboard SUB (Next.js + TypeScript) para substituir o fluxo manual de dados do setor
-- Análise de telemetria de frota com dados VFleets para relatórios executivos de segurança
+- Desenvolvendo o Dashboards, que são usados pela coordenação técnica e gestão do setor
+- Construindo automações (Next.js + TypeScript + Python) para substituir o fluxo manual de dados do setor
+- Análise de telemetria de frota para relatórios de segurança
 
 ---
 
@@ -140,8 +140,6 @@ const davi = {
 ---
 
 <div align="center">
-
-*Disponível para oportunidades remotas · Open to remote opportunities*
 
 [![Visitors](https://komarev.com/ghpvc/?username=EuDavidev&color=0d1117&style=flat-square&label=profile+views)](https://github.com/EuDavidev)
 
