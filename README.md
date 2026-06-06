@@ -113,7 +113,7 @@ const davi = {
   
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EuDavidev&theme=github_dark" />
   
-  <img width="80%" src="[![GitHub Streak](https://github-readme-streak-stats-snowy-phi.vercel.app?user=EuDavidev&theme=dark&hide_border=true)](https://git.io/streak-stats)" />
+  <div width="80%">[![GitHub Streak](https://github-readme-streak-stats-snowy-phi.vercel.app?user=EuDavidev&theme=dark&hide_border=true)](https://git.io/streak-stats) </div>
 </div>
 
 ---
