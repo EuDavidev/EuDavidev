@@ -139,6 +139,8 @@ const davi = {
 
 <div align="center">
 
+[![GitHub Streak](https://github-readme-streak-stats-snowy-phi.vercel.app?user=EuDavidev&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 [![Visitors](https://komarev.com/ghpvc/?username=EuDavidev&color=0d1117&style=flat-square&label=profile+views)](https://github.com/EuDavidev)
 
 </div>
