@@ -71,7 +71,7 @@ const davi = {
 ## Projetos em Destaque
 
 ### 🔒 Dashboard SUB *(corporativo — repositório privado)*
-> Aplicação web interna desenvolvida dentro do ambiente de desenvolvimento da Neoenergia Coelba que substitui o fluxo manual "Excel → Power BI" do setor de Subtransmissão Centro.
+> Aplicação web interna desenvolvida dentro do ambiente de desenvolvimento da Neoenergia Coelba que substitui o fluxo manual "Excel → Power BI" do setor.
 
 **Stack:** Next.js 15 · React 19 · TypeScript · Tailwind CSS v4 · Prisma · PostgreSQL · NextAuth v5 · Vercel
 
