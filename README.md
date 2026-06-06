@@ -113,6 +113,7 @@ const davi = {
   
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EuDavidev&theme=github_dark" />
 </div>
+
 ---
 
 ## Experiência Profissional
