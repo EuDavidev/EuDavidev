@@ -110,7 +110,7 @@ const davi = {
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EuDavidev&theme=github_dark" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EuDavidev&theme=github_dark" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EuDavidev&theme=github_dark" />
-  <img width="100%" src="https://vercel.com/new/clone?repository-url=https://github.com/DenverCoder1/github-readme-streak-stats/tree/vercel&env=TOKEN&project-name=streak-stats&repository-name=github-readme-streak-stats" />
+  <img width="100%" src="[![GitHub Streak](https://github-readme-streak-stats-snowy-phi.vercel.app?user=EuDavidev&theme=dark&hide_border=true)](https://git.io/streak-stats)"/>
 </div>
 
 ---
