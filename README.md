@@ -108,8 +108,11 @@ const davi = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eudavidev.vercel.app/api?username=EuDavidev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats-eudavidev.vercel.app/api/top-langs/?username=EuDavidev&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EuDavidev&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EuDavidev&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EuDavidev&theme=github_dark)
 
 [![GitHub Streak](https://github-readme-streak-stats-snowy-phi.vercel.app?user=EuDavidev&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
