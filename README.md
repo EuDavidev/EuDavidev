@@ -107,7 +107,7 @@ const davi = {
 ## Estatísticas
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EuDavidev&theme=github_dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EuDavidev&theme=github_dark" />
   
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EuDavidev&theme=github_dark" />
   
