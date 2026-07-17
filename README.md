@@ -2,7 +2,7 @@
 
 # Davi de Souza Silva
 
-**Full Stack Developer** · Alagoinhas, Bahia, Brasil 🇧🇷
+**Full Stack Developer Jr** · Bahia, Brasil 🇧🇷
 
 *De forma inteligente, transformo dados operacionais em sistemas reais. Construindo na Neoenergia Coelba.*
 
