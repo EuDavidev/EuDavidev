@@ -4,6 +4,10 @@
 
 **Full Stack Developer Jr** · Bahia, Brasil 🇧🇷
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=eudavidev&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F164230889%3Fu%3D2acab3de219d7af2074165c5c5460c07dd28209f%26v%3D4" alt="eudavidev hero visual" />
+</p>
+
 *De forma inteligente, transformo dados operacionais em sistemas reais. Construindo na Neoenergia Coelba.*
 
 [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-eudavidev.vercel.app)
@@ -16,18 +20,17 @@
 
 ## Sobre mim
 
-Sou Full Stack Developer/Software Engineer com experiência prática em ambiente corporativo. Tenho experiência na **Neoenergia Coelba**, onde sigo desenvolvendo do zero, Dashboards web de indicadores do setor e automatizando inserção de dados na plataforma.
+Sou Full Stack Developer com experiência em ambiente corporativo. 
 
-Meu diferencial é a ponte entre desenvolvimento (Software) e operação (Distribuição/transmissão): entendo o problema do usuário final porque trabalho e convivo com ele todo dia.
+Meu diferencial é entender a dor do usuário.
 
 ```typescript
 const davi = {
   role:     "Full Stack Developer",
-  company:  "Neoenergia Coelba — Subtransmissão Centro",
   stack:    ["TypeScript", "React", "Next.js", "Node.js", "PostgreSQL"],
   studying: ["Engenharia de Software @ UNINTER", "Téc. Dev. Sistemas @ SENAI"],
   building: "Dashboard SUB — sistema interno de gestão operacional",
-  open_to:  "Oportunidades remotas de Dev Jr/Pleno",
+  open_to:  "Oportunidades de Estágio/Dev Jr",
 };
 ```
 
@@ -37,51 +40,41 @@ const davi = {
 
 **Frontend**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![React Native](https://img.shields.io/badge/React_Native-111827?style=flat-square&logo=react&logoColor=61DAFB)
 
 **Backend & Banco de Dados**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=5FA04E)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB)
+![Prisma](https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1)
+![SQLite](https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=003B57)
+![Supabase](https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3ECF8E)
 
 **Dados & BI**
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel_Avançado-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-111827?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Excel](https://img.shields.io/badge/Excel_Avançado-111827?style=flat-square&logo=microsoftexcel&logoColor=217346)
 
 **Ferramentas**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E)
+![VS Code](https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 
 ---
 
 ## Projetos em Destaque
 
-### 🔒 Dashboard SUB *(corporativo — repositório privado)*
-> Aplicação web interna desenvolvida dentro do ambiente de desenvolvimento da Neoenergia Coelba que substitui o fluxo manual "Excel → Power BI" do setor.
-
-**Stack:** Next.js 15 · React 19 · TypeScript · Tailwind CSS v4 · Prisma · PostgreSQL · NextAuth v5 · Vercel
-
-- Centraliza planejamento financeiro, telemetria de frota, controle de gastos e dados operacionais do setor
-- Integra dados de telemetria de frota (VFleets), métricas OPEX/CAPEX e análise de segurança
-- Substitui processo manual de consolidação em Excel com deploy contínuo na Vercel
-
----
-
 ### 📱 Home Finance *(em desenvolvimento)*
+>
 > App mobile de controle financeiro familiar.
 
 **Stack:** React Native · Expo SDK 54 · TypeScript · NativeWind · Supabase · Zustand · Expo Router
@@ -93,14 +86,16 @@ const davi = {
 ---
 
 ### ☕ DevCake — [devcake.vercel.app](https://devcake.vercel.app)
+>
 > Projeto acadêmico colaborativo — cafeteria virtual desenvolvida como trabalho de Desenvolvimento de Sistemas no SENAI.
 
 ---
 
 ### 🎵 América *(utilitário pessoal)*
+>
 > Desktop app Python/tkinter para download de áudio do YouTube via yt-dlp e FFmpeg, com lógica anti-detecção de bot e retry via cookies. Foi desenvolvido em projeto freelancer, para um cliente que tem uma atividade recorrente de realizar downloads diretamente do Youtube em formato MP3.
 
-**Stack:** Python · tkinter · yt-dlp · FFmpeg
+**Stack:** Python · FastAPI · tkinter · yt-dlp · FFmpeg
 
 ---
 
@@ -109,11 +104,6 @@ const davi = {
 <div align="center">
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EuDavidev&theme=github_dark" />
   
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EuDavidev&theme=github_dark" />
-  
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EuDavidev&theme=github_dark" />
-</div>
-
 ---
 
 ## Experiência Profissional
@@ -131,16 +121,12 @@ const davi = {
 
 🎓 **Bacharelado em Engenharia de Software** · UNINTER · *Em andamento*
 
-🎓 **Técnico em Desenvolvimento de Sistemas** · SENAI Alagoinhas · Bolsista ENEM · *Em andamento*
-
-🎓 **Técnico em Assistente Administrativo** · SENAI Alagoinhas · *Concluído em 2025*
+🎓 **Técnico em Desenvolvimento de Sistemas** · SENAI Alagoinhas · *Em andamento*
 
 ---
 
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats-snowy-phi.vercel.app?user=EuDavidev&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-[![Visitors](https://komarev.com/ghpvc/?username=EuDavidev&color=0d1117&style=flat-square&label=profile+views)](https://github.com/EuDavidev)
 
 </div>
