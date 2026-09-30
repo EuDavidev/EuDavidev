@@ -1,9 +1,4 @@
 <div align="center">
-
-# Davi de Souza Silva
-
-**Full Stack Developer Jr** · Bahia, Brasil 🇧🇷
-
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=eudavidev&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F164230889%3Fu%3D2acab3de219d7af2074165c5c5460c07dd28209f%26v%3D4" alt="eudavidev hero visual" />
 </p>
