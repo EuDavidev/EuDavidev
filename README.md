@@ -62,10 +62,6 @@ Meu diferencial é clarear a visão do cliente.
 
 **Stack:** React Native · Expo SDK 54 · TypeScript · NativeWind · Supabase · Zustand · Expo Router
 
-- Gestão de orçamento por categorias com perfis familiares compartilhados
-- Upload e parsing de extratos bancários OFX/CSV
-- Build Android via EAS Build
-
 ---
 
 ### ☕ DevCake — [devcake.vercel.app](https://devcake.vercel.app)
