@@ -3,8 +3,6 @@
   <img src="https://www.gitskins.com/api/section/hero?username=eudavidev&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F164230889%3Fu%3D2acab3de219d7af2074165c5c5460c07dd28209f%26v%3D4" alt="eudavidev hero visual" />
 </p>
 
-*De forma inteligente, transformo dados operacionais em sistemas reais. Construindo na Neoenergia Coelba.*
-
 [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-eudavidev.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davisouza128@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eudavidev)
@@ -15,23 +13,13 @@
 
 ## Sobre mim
 
-Sou Full Stack Developer com experiência em ambiente corporativo. 
+Full Stack | Software Engineer
 
-Meu diferencial é entender a dor do usuário.
-
-```typescript
-const davi = {
-  role:     "Full Stack Developer",
-  stack:    ["TypeScript", "React", "Next.js", "Node.js", "PostgreSQL"],
-  studying: ["Engenharia de Software @ UNINTER", "Téc. Dev. Sistemas @ SENAI"],
-  building: "Dashboard SUB — sistema interno de gestão operacional",
-  open_to:  "Oportunidades de Estágio/Dev Jr",
-};
-```
+Meu diferencial é clarear a visão do cliente.
 
 ---
 
-## Stack Técnica
+## Stack
 
 **Frontend**
 
@@ -45,7 +33,6 @@ const davi = {
 **Backend & Banco de Dados**
 
 ![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=5FA04E)
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB)
 ![Prisma](https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![SQLite](https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=003B57)
@@ -55,6 +42,7 @@ const davi = {
 
 ![Power BI](https://img.shields.io/badge/Power_BI-111827?style=flat-square&logo=powerbi&logoColor=F2C811)
 ![Excel](https://img.shields.io/badge/Excel_Avançado-111827?style=flat-square&logo=microsoftexcel&logoColor=217346)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB)
 
 **Ferramentas**
 
@@ -70,25 +58,26 @@ const davi = {
 
 ### 📱 Home Finance *(em desenvolvimento)*
 >
-> App mobile de controle financeiro familiar.
+> App mobile de controle financeiro.
 
 **Stack:** React Native · Expo SDK 54 · TypeScript · NativeWind · Supabase · Zustand · Expo Router
 
 - Gestão de orçamento por categorias com perfis familiares compartilhados
-- Upload e parsing de extratos bancários OFX
+- Upload e parsing de extratos bancários OFX/CSV
 - Build Android via EAS Build
 
 ---
 
 ### ☕ DevCake — [devcake.vercel.app](https://devcake.vercel.app)
 >
-> Projeto acadêmico colaborativo — cafeteria virtual desenvolvida como trabalho de Desenvolvimento de Sistemas no SENAI.
+> Cafeteria virtual desenvolvida como trabalho de Desenvolvimento de Sistemas no SENAI.
+**Stack:** React · Next.js
 
 ---
 
 ### 🎵 América *(utilitário pessoal)*
 >
-> Desktop app Python/tkinter para download de áudio do YouTube via yt-dlp e FFmpeg, com lógica anti-detecção de bot e retry via cookies. Foi desenvolvido em projeto freelancer, para um cliente que tem uma atividade recorrente de realizar downloads diretamente do Youtube em formato MP3.
+> Desktop app/web app para downloads de áudio do YouTube via yt-dlp e FFmpeg.
 
 **Stack:** Python · FastAPI · tkinter · yt-dlp · FFmpeg
 
@@ -99,25 +88,6 @@ const davi = {
 <div align="center">
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EuDavidev&theme=github_dark" />
   
----
-
-## Experiência Profissional
-
-**Jovem Aprendiz — Desenvolvedor**
-🏢 Neoenergia Coelba · Jul 2025 – Presente
-
-- Desenvolvendo o Dashboards, que são usados pela coordenação técnica e gestão do setor
-- Construindo automações (Next.js + TypeScript + Python) para substituir o fluxo manual de dados do setor
-- Análise de telemetria de frota para relatórios de segurança
-
----
-
-## Formação
-
-🎓 **Bacharelado em Engenharia de Software** · UNINTER · *Em andamento*
-
-🎓 **Técnico em Desenvolvimento de Sistemas** · SENAI Alagoinhas · *Em andamento*
-
 ---
 
 <div align="center">
